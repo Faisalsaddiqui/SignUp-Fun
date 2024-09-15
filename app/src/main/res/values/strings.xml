@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SignUpFun</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_name">Enter Name:</string>
+    <string name="prompt_email">e-Mail:</string>
+    <string name="prompt_password">Password:</string>
+    <string name="prompt_password_confirm">Confirm Password:</string>
+    <string name="prompt_gender">Gender:</string>
+    <string name="prompt_sports">Sports:</string>
+    <string name="prompt_dob">Date of Birth:</string>
+    <string name="prompt_city">City:</string>
+    <string name="prompt_country">Country:</string>
+    <string name="prompt_skills">Skills:</string>
+    <string name="prompt_tc">I accept terms and conditions</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="gender_a">Male</string>
+    <string name="gender_b">Female</string>
+    <string name="sport_a">Cricket</string>
+    <string name="sport_b">Hockey</string>
+    <string name="sport_c">Football</string>
+    <string name="skill_a">Beginner</string>
+    <string name="skill_b">Advanced</string>
+</resources>
